@@ -5,4 +5,4 @@ how I found them.
 
 ## Silly GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidski&show_icons=true&count_private=true&theme=dracula&custom_title=Metrics%20are%20not%20the%20sum%20of%20a%20person.&hide_rank=true&disable_animations=true&hude_border=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidski&show_icons=true&count_private=true&theme=dracula&custom_title=Metrics%20are%20not%20the%20sum%20of%20a%20person.&hide_rank=true&disable_animations=true&hide_border=true)
